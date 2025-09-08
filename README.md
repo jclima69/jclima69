@@ -27,7 +27,7 @@ Alguns dos meus projetos:
 - [Projeto 1: Modelagem, Estruturação de Dados, Engine de Busca e Otimização de Consulta de Pareceres, menos a interface]
 
 ### 📫 Como me encontrar
-- **LinkedIn:** [Link do seu perfil](https://www.linkedin.com/in/seuperfil)
-- **E-mail:** seu.email@exemplo.com
+- **LinkedIn:** [Link do seu perfil](https://www.linkedin.com/in/jaime-lima-434530379)
+- **E-mail:** 
 
 *"Transformando dados em conhecimento."*
