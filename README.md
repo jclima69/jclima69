@@ -17,10 +17,10 @@ Para mim o aprendizado constante em diversos projetos é essencial para ampliar 
 - 🗃 **Gerenciamento de Bancos de Dados:** Queries complexas em **T-SQL** e administração de SGBDs.
 
 ### 🛠 Ferramentas e Tecnologias
-**Linguagens:** SQL, Python
-**Bancos de Dados:** Microsoft SQL Server
-**Ferramentas de BI:** Power BI, QlikView
-**Conceitos:** ETL, Modelagem Star Schema, Snowflake, Bancos OLAP e OLTP
+- **Linguagens:** SQL, Python
+- **Bancos de Dados:** Microsoft SQL Server
+- **Ferramentas de BI:** Power BI, QlikView
+- **Conceitos:** ETL, Modelagem Star Schema, Snowflake, Bancos OLAP e OLTP
 
 ### 📂 Meus Projetos
 Alguns dos meus projetos:
