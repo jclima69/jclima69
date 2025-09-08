@@ -24,7 +24,7 @@ Para mim o aprendizado constante em diversos projetos é essencial para ampliar 
 
 ### 📂 Meus Projetos
 Alguns dos meus projetos:
-- [Projeto 1: Modelagem, Estruturação de Dados, Engine de Busca e Otimização de Consulta de Pareceres, menos a interface]
+- [Projeto 1: Modelagem, Estruturação de Dados, Engine de Busca e Otimização de Consulta Web de Pareceres, menos a interface]
 
 ### 📫 Como me encontrar
 - **LinkedIn:** [Link do seu perfil](https://www.linkedin.com/in/jaime-lima-434530379)
