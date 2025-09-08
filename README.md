@@ -11,7 +11,7 @@ Para mim o aprendizado constante em diversos projetos é essencial para ampliar 
 🚀 Em constante aprendizado para tornar-me um **Cientista de Dados**  
 
 
-### Em Constante Aperfeiçoamento:
+### Aperfeiçoamento Constante:
 - 🛠 **Engenharia de Dados:** Modelagem de Dados, Arquitetura, Administração, Pipelines, ETL.
 - 📊 **Business Intelligence:** Criação de dashboards e visualizações em **Power BI** e **QlikView**.
 - 🗃 **Gerenciamento de Bancos de Dados:** Queries complexas em **T-SQL** e administração de SGBDs.
