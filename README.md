@@ -1,16 +1,33 @@
-## Hi there 👋
+## Olá, eu sou Jaime Lima 👋
 
-<!--
-**jclima69/jclima69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Estudante de Análise e Desenvolvimento de Sistemas com Grande Interesse na Área de Dados
 
-Here are some ideas to get you started:
+Bem-vindo ao meu perfil! Sou um estudante da área de tecnologia com especial interesse pelo universo dos dados. 
+Para mim o aprendizado constante em diversos projetos é essencial para ampliar e solidificar meus conhecimentos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
+📊 Interesse especial por **Engenharia de Dados:** Arquitetura, Modelagem e Administração de Dados.  
+💡 Explorando **Integração e Otimização de Dados para consulta**  
+🚀 Em constante aprendizado para tornar-me um **Cientista de Dados**  
+
+
+### Em Constante Aperfeiçoamento:
+- 🛠 **Engenharia de Dados:** Modelagem de Dados, Arquitetura, Administração, Pipelines, ETL.
+- 📊 **Business Intelligence:** Criação de dashboards e visualizações em **Power BI** e **QlikView**.
+- 🗃 **Gerenciamento de Bancos de Dados:** Queries complexas em **T-SQL** e administração de SGBDs.
+
+### 🛠 Ferramentas e Tecnologias
+**Linguagens:** SQL, Python
+**Bancos de Dados:** Microsoft SQL Server
+**Ferramentas de BI:** Power BI, QlikView
+**Conceitos:** ETL, Modelagem Star Schema, Snowflake, Bancos OLAP e OLTP
+
+### 📂 Meus Projetos
+Alguns dos meus projetos:
+- [Projeto 1: Modelagem, Estruturação de Dados, Engine de Busca e Otimização de Consulta de Pareceres, menos a interface]
+
+### 📫 Como me encontrar
+- **LinkedIn:** [Link do seu perfil](https://www.linkedin.com/in/seuperfil)
+- **E-mail:** seu.email@exemplo.com
+
+*"Transformando dados em conhecimento."*
