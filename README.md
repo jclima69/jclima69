@@ -30,6 +30,6 @@ Alguns dos meus projetos:
 
 ### 📫 Como me encontrar
 - **LinkedIn:** [Link do seu perfil](https://www.linkedin.com/in/jaime-lima-434530379)
-- **E-mail:** 
+- **E-mail:** jclima69@gmail.com
 
 *"Transformando dados em conhecimento."*
