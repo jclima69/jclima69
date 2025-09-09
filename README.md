@@ -26,7 +26,7 @@ Para mim o aprendizado constante em diversos projetos é essencial para ampliar 
 
 ### 📂 Meus Projetos
 Alguns dos meus projetos:
-- [Projeto 1: Modelagem, Estruturação de Dados, Engine de Busca e Otimização de Consulta Web de Pareceres, menos a interface]
+- [Clique aqui para acessar o Repositório da Pesquisa de Pareceres](https://github.com/jclima69/Pesquisa-de-Pareceres)  
 
 ### 📫 Como me encontrar
 - **LinkedIn:** [Link do seu perfil](https://www.linkedin.com/in/jaime-lima-434530379)
