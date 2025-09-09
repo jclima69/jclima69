@@ -9,7 +9,7 @@ Para mim o aprendizado constante em diversos projetos é essencial para ampliar 
 📊 Interesse especial por **Engenharia de Dados:** Arquitetura, Modelagem e Administração de Dados.  
 💡 Explorando **Integração e Otimização de Dados para consulta**  
 🚀 Em constante aprendizado para tornar-me um **Cientista de Dados**  
-🌍 Comprometido com **inclusão, sustentabilidade e ética na tecnologia**
+🌍 Comprometido com **inclusão, sustentabilidade e ética na tecnologia**  
 🤝 Sempre buscando ampliar as **capacidades de comunicação e colaboração em grupos diversificados**.
 
 
