@@ -10,6 +10,7 @@ Para mim o aprendizado constante em diversos projetos é essencial para ampliar 
 💡 Explorando **Integração e Otimização de Dados para consulta**  
 🚀 Em constante aprendizado para tornar-me um **Cientista de Dados**  
 🌍 Comprometido com **inclusão, sustentabilidade e ética na tecnologia**
+🤝 Sempre buscando ampliar as capacidades de comunicação e colaboração em grupos diversificados.
 
 
 ### Aperfeiçoamento Constante:
